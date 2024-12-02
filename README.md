@@ -21,9 +21,9 @@ Hi, I’m *Ibi*, a French Engineer with a strong background in computer science 
 - **Caching & Messaging**: Redis
 
 ### SaaS Front-end Development
-- **Frameworks**: Next.js
+- **Frameworks**: React, Next.js
 - **Languages**: TypeScript
-- **UI Libraries**: Mantine, shadcn UI
+- **UI Libraries**: Tailwind CSS, shadcn/ui, Mantine, 
 
 ### Apple App Development
 - **Languages**: Swift
