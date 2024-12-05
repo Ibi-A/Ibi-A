@@ -9,7 +9,6 @@ Hi, I’m *Ibi*, a French Engineer with a strong background in computer science 
 ## **Project & Product Management Methodology**
 - **Product Strategy**: Lean Startup, MVP Approach
 - **Methodology**: Agile Principles (using a self-adapted version of Scrum to stay organized and ensure continuous delivery of value on solo projects)
-- **Project & Product Management Tool:** Linear
 
 ## My Go-To MVP Tech Stack
 ### Back-end Architecture & Development
@@ -41,6 +40,7 @@ Hi, I’m *Ibi*, a French Engineer with a strong background in computer science 
 - **Email Delivery Services**: Resend
 - **Containerization**: Docker
 - **Version Control**: GitHub
+- **Documentation**: Docusaurus
 - **Integration**: RESTful APIs
 
 ## Let's Connect 🤝
