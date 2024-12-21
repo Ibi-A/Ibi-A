@@ -15,7 +15,7 @@ Hi, I’m *Ibi*, a French Engineer with a strong background in computer science 
 - **Frameworks**: FastAPI
 - **Languages**: Python
 - **Databases**: PostgreSQL
-- **CRM**: Payload
+- **CMS**: Payload
 - **Task Management**: Celery
 - **Caching & Messaging**: Redis
 
